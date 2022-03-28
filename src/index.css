@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#backgroundImage{
+  position: absolute;
+width: 100vw;
+height: 800px;
+/* left: -24px; */
+top: 0px;
+/* background: url(dominik-lange-ZUvF7qEIcVI-unsplash.jpg); */
+background: url(https://www.gardeningknowhow.com/wp-content/uploads/2019/02/clouds.jpg);
+}
+.FCstyle{
+  font-size: 30px;
+  padding: 10px 20px;
+  margin-left: 5px;
+}
+.FCstyle:hover{
+  background-color: rgba(116, 122, 129, 0.671);
+}
+#contentSection{
+  height: 50vh;
+  /* background-color: rgba(83, 78, 78, 0.37); */
+}
